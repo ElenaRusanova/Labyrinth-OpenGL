@@ -12,4 +12,4 @@
 * Гравитация и возможность ходить по верхним граням объектов, что делает игру более динамичной
 
 ### Demo GIF
-![gif](gif/labirint_demo.gif)
+![gif/labirint_demo.gif](https://github.com/ElenaRusanova/Labyrinth-OpenGL/blob/main/gif/labirint_demo.gif)
